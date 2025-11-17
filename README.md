@@ -1,1 +1,6 @@
-# build-a-golf-score-translator
+## 🧠 About This Project
+
+I created this project as part of the [FreeCodeCamp](https://www.freecodecamp.org) program — **Build a Golf Score Translator**. 
+I used JavaScript to complete it.
+
+Next step.. ⏳
